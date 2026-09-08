@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Yahir 👋
 
-Estudiante de Ingeniería en Software, 6to semestre.
+Estudiante de Ingeniería en Software, 7mo semestre.
 
 Aprendiendo y construyendo con stack full-stack **PERN** (PostgreSQL, Express, React, Node.js) y **Docker**.
 
