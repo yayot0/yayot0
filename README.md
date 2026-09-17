@@ -1,4 +1,4 @@
-### ¡Hola! Soy Yahir 👋
+### ¡Hola! Soy Yahir
 
 Estudiante de Ingeniería en Software, 7mo semestre.
 
